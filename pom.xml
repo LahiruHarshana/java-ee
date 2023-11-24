@@ -8,6 +8,7 @@
     <artifactId>hello-java-ee</artifactId>
     <version>1.0.0</version>
 
+    <packaging>war</packaging>
 
 
     <properties>
