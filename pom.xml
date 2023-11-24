@@ -8,6 +8,19 @@
     <artifactId>hello-java-ee</artifactId>
     <version>1.0.0</version>
 
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.4.0</version>
+            </plugin>
+            <!-- other plugins -->
+        </plugins>
+    </build>
+
+
     <packaging>war</packaging>
 
 
