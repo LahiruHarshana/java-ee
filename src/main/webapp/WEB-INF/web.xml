@@ -7,10 +7,7 @@
         <servlet-name>HelloServlet</servlet-name>
         <servlet-class>lk.ijse.gdse66.hello.api.HelloServlet</servlet-class>
     </servlet>
-    
-    <servlet-mapping>
-        <servlet-name>HelloServlet</servlet-name>
-        <url-pattern>/hello</url-pattern>
+
     <servlet-mapping>
         <servlet-name>HelloServlet</servlet-name>
         <url-pattern></url-pattern>
