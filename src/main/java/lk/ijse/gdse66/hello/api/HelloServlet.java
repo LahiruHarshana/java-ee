@@ -1,4 +1,7 @@
 package lk.ijse.gdse66.hello.api;
 
-public class HelloServlet {
+import javax.servlet.http.HttpServlet;
+
+public class HelloServlet extends HttpServlet {
+
 }
